@@ -1,0 +1,5 @@
+customer-churn-streamlit/
+├── churn_data.csv
+├── model_train.py
+├── app.py
+├── requirements.txt
